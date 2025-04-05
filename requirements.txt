@@ -1,0 +1,5 @@
+numpy==2.2.4
+imageio==2.37.0
+scikit-learn==1.6.1
+matplotlib==3.10.1
+opencv-python-headless==4.11.0.86
